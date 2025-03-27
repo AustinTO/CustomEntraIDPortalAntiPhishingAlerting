@@ -43,6 +43,7 @@ Retrieve the link from your email, and create the
 following CSS file(making sure to use YOUR link):
 
 ![](CustomEntraIDPortalMedia/896f3a4267c8e53c8c75f91482cc208fa9a27ba2.png)
+
 Now upload the CSS file you created to
 Custom CSS under Layout.
 
