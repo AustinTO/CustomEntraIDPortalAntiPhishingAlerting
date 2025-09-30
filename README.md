@@ -35,8 +35,8 @@ method and upload them for the favicon and background.
 
 <img src="images/media/image5.png"
 style="width:6.5in;height:3.58333in" />
-For additional protection we will
-use didsomeoneclone.me to create a honeytoken that we can use the custom
+
+For additional protection we will use didsomeoneclone.me to create a honeytoken that we can use the custom
 CSS feature located on the next step: layout. Simply generate a link for
 login.microsoftonline.com and enter your email.
 
@@ -47,8 +47,8 @@ to use YOUR link):
 
 <img src="images/media/image7.png"
 style="width:6.5in;height:4.98958in" />
-Now upload the CSS file you
-created to Custom CSS under Layout.
+
+Now upload the CSS file you created to Custom CSS under Layout.
 
 <img src="images/media/image8.png" style="width:6.5in;height:3.75in" />
 
