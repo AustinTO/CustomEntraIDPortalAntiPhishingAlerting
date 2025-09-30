@@ -26,12 +26,11 @@ the EntraID Admin portal and navigate to “Company Branding” under
 Identity\>User Experience\>Company Branding (Or simply type it in the
 search bar)
 <img src="images/media/image1.png"
-style="width:6.5in;height:3.40625in" /><img src="images/media/image2.png"
-style="width:6.5in;height:3.40625in" /><img src="images/media/image3.png"
-style="width:6.5in;height:4.98958in" /><img src="images/media/image4.png"
-style="width:6.5in;height:4.98958in" />
-Make sure that the selected
-images are the correct size and pixel dimensions using your preferred
+style="width:6.5in;height:3.40625in" />
+<img src="images/media/image2.png"
+style="width:6.5in;height:3.40625in" />
+
+Make sure that the selected images are the correct size and pixel dimensions using your preferred
 method and upload them for the favicon and background.
 
 <img src="images/media/image5.png"
@@ -52,10 +51,12 @@ Now upload the CSS file you
 created to Custom CSS under Layout.
 
 <img src="images/media/image8.png" style="width:6.5in;height:3.75in" />
+
 Optionally you can customize the banner, logo, and more if you so desire. Next
 click on Review and Create and finally smash that Create button.
 
 <img src="images/media/image9.png" style="width:6.5in;height:3.75in" />
+
 There you go! An easily recognizable, and distinct login experience that your
 employees will certainly notice if/when it suddenly looks generic, with
 the added benefit of an invisible AitM(adversary in the middle)/Evilginx
@@ -71,6 +72,7 @@ I spun up an AitM phishing test using Cloudflare Workers in less than
 
 <img src="images/media/image11.png"
 style="width:6.5in;height:3.54792in" />
+
 Notice the URL below(It was quickly flagged as malcious infrastructure after a few hours, should
 have injected a turnstyle! lol)
 
@@ -81,5 +83,6 @@ style="width:6.5in;height:3.54792in" />
 
 I hope you enjoyed the read/walkthrough! Since implementing this I have also developed a method to
 include another honeytoken and flask based method to log these attacks and generate alerts in Wazuh.
+
 <img src="images/media/image13.png"
 style="width:4.33333in;height:4.33333in" />
