@@ -26,8 +26,7 @@ the EntraID Admin portal and navigate to “Company Branding” under
 Identity\>User Experience\>Company Branding (Or simply type it in the
 search bar)
 <img src="images/media/image1.png" />
-<img src="images/media/image2.png"
-style="width:6.5in;height:3.40625in" />
+<img src="images/media/image2.png" />
 
 Make sure that the selected images are the correct size and pixel dimensions using your preferred
 method and upload them for the favicon and background.
@@ -62,26 +61,22 @@ the added benefit of an invisible AitM(adversary in the middle)/Evilginx
 style attack alert feature that will immediately notify you via email
 if/when an employee clicks on proxy/AITM advanced phishing links.
 
-<img src="images/media/image10.png"
-style="width:6.5in;height:3.91667in" />
+<img src="images/media/image10.png" />
 
 I spun up an AitM phishing test using Cloudflare Workers in less than
 200 lines of javascript using this repo to test it out:
 [https://github.com/zolderio/AITMWorker]()
 
-<img src="images/media/image11.png"
-style="width:6.5in;height:3.54792in" />
+<img src="images/media/image11.png" />
 
 Notice the URL below(It was quickly flagged as malcious infrastructure after a few hours, should
 have injected a turnstyle! lol)
 
 Here we see the email alert sent to my inbox after the “attack”:
 
-<img src="images/media/image12.png"
-style="width:6.5in;height:3.54792in" />
+<img src="images/media/image12.png" />
 
 I hope you enjoyed the read/walkthrough! Since implementing this I have also developed a method to
 include another honeytoken and flask based method to log these attacks and generate alerts in Wazuh.
 
-<img src="images/media/image13.png"
-style="width:4.33333in;height:4.33333in" />
+<img src="images/media/image13.png" />
