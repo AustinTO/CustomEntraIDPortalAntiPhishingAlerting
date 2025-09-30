@@ -25,8 +25,7 @@ To customize your Microsoft365/O365/EntraID login portal first log into
 the EntraID Admin portal and navigate to “Company Branding” under
 Identity\>User Experience\>Company Branding (Or simply type it in the
 search bar)
-<img src="images/media/image1.png"
-style="width:6.5in;height:3.40625in" />
+<img src="images/media/image1.png" />
 <img src="images/media/image2.png"
 style="width:6.5in;height:3.40625in" />
 
