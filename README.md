@@ -31,29 +31,26 @@ search bar)
 Make sure that the selected images are the correct size and pixel dimensions using your preferred
 method and upload them for the favicon and background.
 
-<img src="images/media/image5.png"
-style="width:6.5in;height:3.58333in" />
+<img src="images/media/image5.png" />
 
 For additional protection we will use didsomeoneclone.me to create a honeytoken that we can use the custom
 CSS feature located on the next step: layout. Simply generate a link for
 login.microsoftonline.com and enter your email.
 
-<img src="images/media/image6.png" style="width:6.5in;height:3.75in" />
-Retrieve
-the link from your email, and create the following CSS file(making sure
+<img src="images/media/image6.png"/>
+Retrieve the link from your email, and create the following CSS file(making sure
 to use YOUR link):
 
-<img src="images/media/image7.png"
-style="width:6.5in;height:4.98958in" />
+<img src="images/media/image7.png" />
 
 Now upload the CSS file you created to Custom CSS under Layout.
 
-<img src="images/media/image8.png" style="width:6.5in;height:3.75in" />
+<img src="images/media/image8.png" />
 
 Optionally you can customize the banner, logo, and more if you so desire. Next
 click on Review and Create and finally smash that Create button.
 
-<img src="images/media/image9.png" style="width:6.5in;height:3.75in" />
+<img src="images/media/image9.png" />
 
 There you go! An easily recognizable, and distinct login experience that your
 employees will certainly notice if/when it suddenly looks generic, with
